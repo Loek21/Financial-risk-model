@@ -1,0 +1,31 @@
+issuer,PD,region,sector
+ABN.AS,0.000544,EU,Financial Services
+ING,0.000544,EU,Financial Services
+AGN.AS,0.000544,EU,Financial Services
+SIE.DE,0.000544,EU,Industrials
+BMW.DE,0.000544,EU,Consumer Cyclical
+BAS.DE,0.000544,EU,Basic Materials
+VOD,0.001997,EU,Communication Services
+RNO.PA,0.001997,EU,Consumer Cyclical
+DTE.DE,0.001997,EU,Communication Services
+TEF,0.001997,EU,Communication Services
+ATL.MI,0.008538,EU,Industrials
+ADDYY,0.000544,EU,Consumer Cyclical
+KGF.L,0.001997,EU,Consumer Cyclical
+BTI,0.001997,EU,Consumer Services
+ATVI,0.000544,NA,Communication Services
+CVS,0.001997,NA,Healthcare
+AAPL,0.000141,NA,Technology
+IBM,0.000544,NA,Technology
+ABT,0.000544,NA,Healthcare
+BRK-B,0.000141,NA,Financial Services
+IP,0.001997,NA,Consumer Cyclical
+K,0.001997,NA,Consumer Services
+MCD,0.001997,NA,Consumer Cyclical
+EA,0.001997,NA,Communication Services
+F,0.008538,NA,Consumer Cyclical
+GM,0.001997,NA,Consumer Cyclical
+AVGO,0.001997,NA,Technology
+INTC,0.000544,NA,Technology
+DIS,0.001997,NA,Communication Services
+NKE,0.000141,NA,Consumer Cyclical
